@@ -6,7 +6,7 @@
 ## About me
 
 - 💻 I build full-stack web apps with React, Node.js, Express and MongoDB
-- 🏢 Working on LMS, ERP and education-portal projects
+- 🏢 Software Engineer at Prashanti Hospitals; previously built LMS, ERP and education-portal projects
 - 🌱 Currently deepening my skills in Next.js and backend architecture
 - 💬 Ask me about **React**
 - 📫 Reach me at **mohantyakankshya25@gmail.com**
